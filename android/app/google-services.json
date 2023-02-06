@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "438608544160",
+    "project_id": "mini-pocket-670be",
+    "storage_bucket": "mini-pocket-670be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438608544160:android:0c62f40d01377257d2a4c5",
+        "android_client_info": {
+          "package_name": "com.mark.minipocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438608544160-8oblj5scmrilhbmpm9jgg6apk36qp8a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mark.minipocket",
+            "certificate_hash": "a9ed6b3eee68dacede71368a77865d618ff978c6"
+          }
+        },
+        {
+          "client_id": "438608544160-l4gugnju0ingnm8v50ba4di98c12d9ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDopgew5kCCsizb9R5L8sAUGfUCaj1minA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438608544160-l4gugnju0ingnm8v50ba4di98c12d9ss.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438608544160-6ff185h7bf6hj9a8m0k3323nkvfmq7ft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mark.minipocket"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,104 @@
+{
+
+    "welcome to" : "ਸਵਾਗਤ ਹੈ",
+    "login to continue": "ਜਾਰੀ ਰੱਖਣ ਲਈ ਲੌਗਇਨ ਕਰੋ",
+    "welcome-intro": "ਮਿੰਟਾਂ ਵਿੱਚ ਦੁਨੀਆ ਵਿੱਚ ਵਾਪਰ ਰਹੀਆਂ ਤਾਜ਼ਾ ਖਬਰਾਂ ਅਤੇ ਘਟਨਾਵਾਂ ਦੀ ਪੜਚੋਲ ਕਰੋ। ਗਾਹਕ ਬਣੋ ਅਤੇ ਸਾਡੇ ਸਾਰੇ ਲੇਖਾਂ ਦੀ ਸੂਚਨਾ ਪ੍ਰਾਪਤ ਕਰੋ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਦੋਸਤਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ..",
+    "skip": "ਛੱਡੋ",
+
+    "don't have an account?" : "ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+    "create" : "ਬਣਾਓ",
+    "create account" : "ਖਾਤਾ ਬਣਾਉ",
+    "login" : "ਲਾਗਿਨ",
+    "login to access all features" : "ਸਾਰੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਲਈ ਲੌਗਇਨ ਕਰੋ",
+    "follow the simple steps": "ਸਧਾਰਨ ਕਦਮ ਦੀ ਪਾਲਣਾ ਕਰੋ",
+    "already have an account?": "ਕੀ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਖਾਤਾ ਹੈ?",
+
+    "search contents" : "ਖਬਰਾਂ ਦੀ ਖੋਜ ਕਰੋ",
+    "popular contents" : "ਪ੍ਰਸਿੱਧ ਖ਼ਬਰਾਂ",
+    "recent contents" : "ਤਾਜ਼ਾ ਖ਼ਬਰਾਂ",
+    "view all" : "ਸਾਰੇ ਵੇਖੋ",
+
+    "search" : "ਖੋਜ",
+    "search for contents" : "ਖ਼ਬਰਾਂ ਦੀ ਖੋਜ ਕਰੋ",
+    "recent searches" : "ਹਾਲੀਆ ਖੋਜਾਂ",
+    "search-description" :  "ਤੁਸੀਂ ਅਜੇ ਤੱਕ ਕਿਸੇ ਵੀ ਆਈਟਮ ਦੀ ਖੋਜ ਨਹੀਂ ਕੀਤੀ ਹੈ।\n ਹੁਣੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ - ਅਸੀਂ ਤੁਹਾਡੀ ਮਦਦ ਕਰਾਂਗੇ!",
+    "try again" : "ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ!",
+    "categories" : "ਵਰਗ",
+
+    "clear all" : "ਸਾਰਾ ਸਾਫ ਕਰੋ",
+    "bookmark is empty" : "ਤੁਹਾਡਾ ਬੁੱਕਮਾਰਕ ਖਾਲੀ ਹੈ !!",
+    "save your favourite contents here" : "ਇੱਥੇ ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਖ਼ਬਰਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+    "added to your bookamrk" : "ਤੁਹਾਡੇ ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ",
+
+    "no categories found": "ਕੋਈ ਸ਼੍ਰੇਣੀਆਂ ਨਹੀਂ ਮਿਲੀਆਂ",
+    "no contents found" : "ਕੋਈ ਲੇਖ ਨਹੀਂ ਮਿਲੇ",
+    "no internet" : "ਕੋਈ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਨਹੀਂ!",
+    "check your internet connection!" : "ਆਪਣੇ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ!",
+    "contents you might love" : "ਲੇਖ ਜੋ ਤੁਸੀਂ ਪਸੰਦ ਕਰ ਸਕਦੇ ਹੋ",
+    
+    "comments" : "ਟਿੱਪਣੀਆਂ",
+    "view comments" : "ਟਿੱਪਣੀਆਂ ਦੇਖੋ",
+    "write a comment" : "ਇੱਕ ਟਿੱਪਣੀ ਲਿਖੋ", 
+    "no comments found" : "ਕੋਈ ਟਿੱਪਣੀ ਨਹੀਂ ਮਿਲੀ",
+    "be the first to comment" : "ਟਿੱਪਣੀ ਕਰਨ ਵਾਲੇ ਪਹਿਲੇ ਵਿਅਕਤੀ ਬਣੋ",
+    "login to make comments" : "ਟਿੱਪਣੀਆਂ ਕਰਨ ਲਈ ਲੌਗਇਨ ਕਰੋ",
+    "comment success title" : "ਟਿੱਪਣੀ ਸਫਲਤਾਪੂਰਵਕ ਸਪੁਰਦ ਕੀਤੀ ਗਈ",
+    "comment success description" : "ਤੁਹਾਡੀ ਟਿੱਪਣੀ ਸਮੀਖਿਆ ਲਈ ਦਰਜ ਕੀਤੀ ਗਈ ਹੈ। ਸਮੀਖਿਆ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਇਸ ਸੂਚੀ ਵਿੱਚ ਆਪਣੀ ਟਿੱਪਣੀ ਦੇਖੋਗੇ।\nਧੰਨਵਾਦ",
+    "you can't delete others comment" : "ਤੁਸੀਂ ਦੂਜਿਆਂ ਦੀ ਟਿੱਪਣੀ ਨੂੰ ਮਿਟਾ ਨਹੀਂ ਸਕਦੇ",
+    "you can't edit others comment" : "ਤੁਸੀਂ ਦੂਜਿਆਂ ਦੀ ਟਿੱਪਣੀ ਨੂੰ ਸੰਪਾਦਿਤ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ",
+    "update comment" : "ਟਿੱਪਣੀ ਅੱਪਡੇਟ ਕਰੋ",
+
+    "delete" : "ਮਿਟਾਓ",
+    "update" : "ਅੱਪਡੇਟ ਕਰੋ",
+
+    "notifications" : "ਸੂਚਨਾਵਾਂ",
+    "notification details" : "ਸੂਚਨਾ ਵੇਰਵੇ",
+    "no notification title": "ਕੋਈ ਸੂਚਨਾਵਾਂ ਨਹੀਂ ਮਿਲੀਆਂ!",
+    "no notification description" : "ਤੁਹਾਨੂੰ ਅਜੇ ਤੱਕ ਕੋਈ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਈਆਂ ਹਨ। ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਤੋਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਚਾਲੂ ਕੀਤਾ ਹੈ।",
+
+    "settings": "ਸੈਟਿੰਗਾਂ",
+    "general settings" : "ਆਮ ਸੈਟਿੰਗਾਂ",
+    "social settings" : "ਸਮਾਜਿਕ ਸੈਟਿੰਗਾਂ",
+    "about app" : "ਐਪ ਬਾਰੇ",
+    "dark mode" : "ਡਾਰਕ ਮੋਡ",
+    "get notifications" : "ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ",
+    "contact us" : "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+    "rate this app" : "ਇਸ ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਓ",
+    "licence" : "ਲਾਇਸੰਸ",
+    "privacy policy" : "ਪਰਾਈਵੇਟ ਨੀਤੀ",
+    "about us" : "ਸਾਡੇ ਬਾਰੇ",
+    "logout" : "ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ",
+    "our website" : "ਸਾਡੀ ਵੈੱਬਸਾਈਟ",
+    "facebook page" : "ਫੇਸਬੁੱਕ ਪੇਜ",
+    "youtube channel" : "ਯੂਟਿਊਬ ਚੈਨਲ",
+
+    "logout title" : "ਐਪ ਤੋਂ ਲੌਗਆਉਟ ਕਰਨਾ ਹੈ?",
+    "logout description" : "ਕੀ ਤੁਸੀਂ ਅਸਲ ਵਿੱਚ ਐਪ ਤੋਂ ਲੌਗਆਉਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਸੀਂ ਆਪਣਾ ਸਾਰਾ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਡੇਟਾ ਗੁਆ ਦੇਵੋਗੇ। ਜਾਰੀ ਰੱਖਣਾ ਹੈ?",
+
+    "language" : "ਭਾਸ਼ਾ",
+    "select language" : "ਭਾਸ਼ਾ ਚੁਣੋ",
+
+    "explore" : "ਪੜਚੋਲ ਕਰੋ",
+    "videos" : "ਵੀਡੀਓਜ਼",
+    "video contents": "ਵੀਡੀਓ ਲੇਖ",
+    "twitter": "ਟਵਿੱਟਰ",
+    "bookmark": "ਬੁੱਕਮਾਰਕ",
+    "bookmarks": "ਬੁੱਕਮਾਰਕਸ",
+
+    "clear all notification-dialog": "ਕੀ ਤੁਸੀਂ ਸਾਰੇ ਸੂਚਨਾ ਡੇਟਾ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+    "clear all bookmark-dialog": "ਕੀ ਤੁਸੀਂ ਸਾਰੇ ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਲੇਖਾਂ ਨੂੰ ਕਲੀਅਰ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+
+    "buy now" : "ਇਸ ਐਪ ਨੂੰ ਖਰੀਦੋ",
+    "buy now subtitle" : "ਇੱਥੇ ਪੂਰਾ ਸਰੋਤ ਕੋਡ ਖਰੀਦੋ",
+
+    "accept terms": "ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ ਸਵੀਕਾਰ ਕਰੋ",
+    "flag comment" : "ਇਸ ਟਿੱਪਣੀ ਨੂੰ ਫਲੈਗ ਕਰੋ",
+    "unflag comment" : "ਇਸ ਟਿੱਪਣੀ ਨੂੰ ਅਣਫਲੈਗ ਕਰੋ",
+    "report" : "ਰਿਪੋਰਟ",
+    "report-info" : "ਤੁਹਾਡੀ ਰਿਪੋਰਟ ਪ੍ਰਸ਼ਾਸਕਾਂ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਭੇਜ ਦਿੱਤੀ ਗਈ ਹੈ",
+    "comment flagged" : "ਇਸ ਟਿੱਪਣੀ ਨੂੰ ਫਲੈਗ ਕੀਤਾ ਗਿਆ ਹੈ!"
+    
+
+
+
+}

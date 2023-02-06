@@ -1,0 +1,104 @@
+{
+
+    "welcome to" : "आपका स्वागत है",
+    "login to continue": "जारी रखने के लिए लॉगिन करें",
+    "welcome-intro": "मिनटों में दुनिया में होने वाली नवीनतम समाचारों और घटनाओं का अन्वेषण करें। सदस्यता लें और हमारे सभी लेखों की सूचना प्राप्त करें और उन्हें अपने दोस्तों के साथ साझा करें।",
+    "skip": "छोड़ें",
+
+    "don't have an account?" : "खाता नहीं है?",
+    "create" : "सृजन करना",
+    "create account" : "खाता बनाएं",
+    "login" : "लॉग इन करें",
+    "login to access all features" : "सभी सुविधाओं तक पहुंचने के लिए लॉगिन करें",
+    "follow the simple steps": "सरल चरणों का पालन करें",
+    "already have an account?": "पहले से ही एक खाता है?",
+
+    "search contents" : "समाचार खोजें",
+    "popular contents" : "लोकप्रिय समाचार",
+    "recent contents" : "ताज़ा खबर",
+    "view all" : "सभी देखें",
+
+    "search" : "खोज",
+    "search for contents" : "समाचार खोजें",
+    "recent searches" : "हाल की खोजें",
+    "search-description" :  "आपने अभी तक कोई आइटम नहीं खोजा है।\n अभी कोशिश करें - हम आपकी मदद करेंगे!",
+    "try again" : "पुनः प्रयास करें!",
+    "categories" : "श्रेणियाँ",
+
+    "clear all" : "सभी साफ करें",
+    "bookmark is empty" : "आपका बुकमार्क खाली है !!",
+    "save your favourite contents here" : "अपनी पसंदीदा खबरें यहां सेव करें",
+    "added to your bookamrk" : "आपके बुकमार्क में जोड़ा गया",
+
+    "no categories found": "कोई श्रेणी नहीं मिली",
+    "no contents found" : "कोई लेख नहीं मिला",
+    "no internet" : "कोई इंटरनेट कनेक्शन नहीं!",
+    "check your internet connection!" : "अपना इंटरनेट संपर्क जांचे!",
+    "contents you might love" : "लेख जो आपको पसंद आ सकते हैं",
+    
+    "comments" : "टिप्पणियाँ",
+    "view comments" : "टिप्पणियाँ देखें",
+    "write a comment" : "टिप्पणी लिखें", 
+    "no comments found" : "कोई टिप्पणी नहीं मिली",
+    "be the first to comment" : "टिप्पणी करने वाले पहले बनो",
+    "login to make comments" : "टिप्पणी करने के लिए लॉगिन करें",
+    "comment success title" : "टिप्पणी सफलतापूर्वक सबमिट की गई",
+    "comment success description" : "आपकी टिप्पणी समीक्षा के लिए सबमिट कर दी गई है। समीक्षा के बाद आप इस सूची में अपनी टिप्पणी देखेंगे।\nधन्यवाद",
+    "you can't delete others comment" : "आप दूसरों की टिप्पणी नहीं हटा सकते",
+    "you can't edit others comment" : "आप दूसरों की टिप्पणी संपादित नहीं कर सकते",
+    "update comment" : "टिप्पणी अपडेट करें",
+
+    "delete" : "हटाएं",
+    "update" : "अद्यतन",
+
+    "notifications" : "सूचनाएं",
+    "notification details" : "अधिसूचना विवरण",
+    "no notification title": "कोई सूचना नहीं मिली!",
+    "no notification description" : "आपको अभी तक कोई सूचना प्राप्त नहीं हुई है। सुनिश्चित करें कि आपने सेटिंग्स से सूचनाएं चालू की हैं।",
+
+    "settings": "समायोजन",
+    "general settings" : "सामान्य सेटिंग्स",
+    "social settings" : "सामाजिक व्यवस्था",
+    "about app" : "ऐप के बारे में",
+    "dark mode" : "डार्क मोड",
+    "get notifications" : "सूचनाएं प्राप्त करें",
+    "contact us" : "संपर्क करें",
+    "rate this app" : "इस ऐप्लिकेशन को रेट करे",
+    "licence" : "लाइसेंस",
+    "privacy policy" : "गोपनीयता नीति",
+    "about us" : "हमारे बारे में",
+    "logout" : "लॉग आउट",
+    "our website" : "हमारी वेबसाइट",
+    "facebook page" : "फेसबुक पेज",
+    "youtube channel" : "यूट्यूब चैनल",
+
+    "logout title" : "ऐप से लॉगआउट?",
+    "logout description" : "क्या आप वाकई ऐप से लॉगआउट करना चाहते हैं? आप अपने सभी सहेजे गए डेटा को खो देंगे। जारी रखना?",
+
+    "language" : "भाषा",
+    "select language" : "भाषा चुने",
+
+    "explore" : "अन्वेषण करना",
+    "videos" : "वीडियो",
+    "video contents": "वीडियो लेख",
+    "twitter": "ट्विटर",
+    "bookmark": "बुकमार्क",
+    "bookmarks": "बुकमार्क",
+
+    "clear all notification-dialog": "क्या आप सभी अधिसूचना डेटा साफ़ करना चाहते हैं?",
+    "clear all bookmark-dialog": "क्या आप सभी सहेजे गए लेखों को साफ़ करना चाहते हैं?",
+
+    "buy now" : "इस ऐप को खरीदें",
+    "buy now subtitle" : "पूरा स्रोत कोड यहां खरीदें",
+
+    "accept terms": "नियम और शर्तें स्वीकार करें",
+    "flag comment" : "इस टिप्पणी को ध्वजांकित करें",
+    "unflag comment" : "इस टिप्पणी को अनफ्लैग करें",
+    "report" : "प्रतिवेदन",
+    "report-info" : "आपकी रिपोर्ट सफलतापूर्वक व्यवस्थापकों को भेज दी गई है",
+    "comment flagged" : "इस टिप्पणी को फ़्लैग कर दिया गया है!"
+    
+
+
+
+}
